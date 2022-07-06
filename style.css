@@ -1,0 +1,34 @@
+/* style.css */
+.mainLink:visited {
+    color: green;
+    
+}
+
+h1 {
+    color: darkslategrey;
+    background-color: firebrick;
+    font-style: oblique;
+    text-align: center;
+    font-size: x-large;
+}
+ol {
+    background-color: beige;
+    font-size: large;
+    color: darkblue;
+}
+ul {
+    background-color: aquamarine;
+    font-size: medium;
+    color: indigo;
+}
+.ridiculous {
+    background-color: blueviolet;
+    text-align: left;
+    padding-right: 20em;
+    font-size: large;
+}
+#buttonFUN {
+    color: black;
+    background-color: orange;
+    padding: 1em;
+}
